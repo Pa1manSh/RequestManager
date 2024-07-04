@@ -1,5 +1,2 @@
 
 
-```sh
-npm run lint
-```
